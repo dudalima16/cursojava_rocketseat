@@ -1,0 +1,33 @@
+1 - Maven tem a função de Gerenciar dependencias e fazer o build
+2 - O empacotamento via WAR requer um servidor para rodar a aplicação, já o via JAR não
+3 - O propósito de uma controller no contexto do Spring Boot é Processar as requisições HTTP e atuar como a primeira camada de acesso
+do usuário á aplicação
+
+
+
+// getters e setters
+
+    // getters: buscar info do que tem dentro dele
+    // setters: atualizar/inserir um valor para a class
+
+
+
+o que é o atributo 'private'?
+
+é um atributo que só pode ser acessado pela propria classe
+
+
+qual a forma de acessar o atributo 'private'?
+métodos públicos na classe que retornam ou modificam o atributo
+
+Qual a função do @RequestBody no Spring Boot?
+
+indica que os dados da requisição estarao no corpo da mensagem e serão convertidos para o objeto
+
+
+A biblioteca bcrypy serve para criptografar as senhas antes de armazena-las no banco de dados
+
+Objetivo do Filter foi para autenticar antes de permitir o cadastro de uma tarefa
+
+
+
